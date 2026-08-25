@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+**/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+*.csv
+*.xlsx
+
+# Node
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+build/
+**/build/
+package-lock.json
+
+# Environment
+.env
+.env.*
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
